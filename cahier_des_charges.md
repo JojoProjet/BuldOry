@@ -1,11 +1,8 @@
-# BuldOry
-Projet Xamarin – LPDAM 2021 – 2022 
+﻿Projet Xamarin – LPDAM 2021 – 2022 
 
 **Application Xamarin – BuldStory** 
 
-Réalisé par : DI MARTINO Jonathan & FESTOC Mylan 
-
-1 Contexte et définition du problème 
+Réalisé par : DI MARTINO Jonathan & FESTOC Mylan 1 Contexte et définition du problème 
 
 Les monuments historiques sont de nos jours une culture, une passion, un événement.   
 
@@ -15,7 +12,7 @@ Chaque utilisateur pourra mettre en favoris le ou les monuments qu’ils souhait
 
 Un système d’inscription et de connexion sera mis en place. Pour chaque monument il y aura une description détaillée avec des informations complémentaires. 
 
-2 Objectifs
+2 ObjectifS 
 
 Conception d’une application en Xamarin utilisant les éléments abordés pendant les séances et une utilisation d’une architecture MVVM. 
 
@@ -66,7 +63,7 @@ Pour le bon fonctionnement de notre projet, les besoins non fonctionnels sont le
 
 ![](Aspose.Words.0edab879-27e4-49e4-8a13-5dbf558364d9.002.png)
 
-8 Résultats possibles ou attendus 
+8 RésultatS possibleS ou attenduS 
 
 ![](Aspose.Words.0edab879-27e4-49e4-8a13-5dbf558364d9.003.png)![](Aspose.Words.0edab879-27e4-49e4-8a13-5dbf558364d9.004.png)![](Aspose.Words.0edab879-27e4-49e4-8a13-5dbf558364d9.005.png)
 
