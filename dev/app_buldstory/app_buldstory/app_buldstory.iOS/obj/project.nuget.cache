@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fsi4pgG1b3C4aIDSyTjrhjLpJEV/3jVbXGZy3RyxuoJLs0mUoatXeRHODlS7p6h9pqEjk4b6D9cHdOh9gQrQ9Q==",
+  "success": true,
+  "projectFilePath": "C:\\environnement_travail\\env_cours\\LP_CDTL_DAM\\Xamarin\\Xamarin_Project\\BuldOry\\dev\\app_buldstory\\app_buldstory\\app_buldstory.iOS\\app_buldstory.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}

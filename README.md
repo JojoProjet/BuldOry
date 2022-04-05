@@ -64,10 +64,4 @@ Pour le bon fonctionnement de notre projet, les besoins non fonctionnels sont le
 
 7 Architecture Logicielle 
 
-![](assets/Aspose.Words.0edab879-27e4-49e4-8a13-5dbf558364d9.002.png)
-
-8 Résultats possibles ou attendus 
-
-![](assets/Aspose.Words.0edab879-27e4-49e4-8a13-5dbf558364d9.003.png)![](assets/Aspose.Words.0edab879-27e4-49e4-8a13-5dbf558364d9.004.png)![](assets/Aspose.Words.0edab879-27e4-49e4-8a13-5dbf558364d9.005.png)
-
-![](assets/Aspose.Words.0edab879-27e4-49e4-8a13-5dbf558364d9.006.png)![](assets/Aspose.Words.0edab879-27e4-49e4-8a13-5dbf558364d9.007.jpeg)
+![](assets/architecture.PNG)
