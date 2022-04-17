@@ -17,3 +17,6 @@ C:\environnement_travail\env_cours\LP_CDTL_DAM\Xamarin\Xamarin_Project\BuldOry\d
 C:\environnement_travail\env_cours\LP_CDTL_DAM\Xamarin\Xamarin_Project\BuldOry\dev\app_buldstory\app_buldstory\app_buldstory\obj\Debug\netstandard2.0\app_buldstory.dll
 C:\environnement_travail\env_cours\LP_CDTL_DAM\Xamarin\Xamarin_Project\BuldOry\dev\app_buldstory\app_buldstory\app_buldstory\obj\Debug\netstandard2.0\ref\app_buldstory.dll
 C:\environnement_travail\env_cours\LP_CDTL_DAM\Xamarin\Xamarin_Project\BuldOry\dev\app_buldstory\app_buldstory\app_buldstory\obj\Debug\netstandard2.0\app_buldstory.pdb
+C:\environnement_travail\env_cours\LP_CDTL_DAM\Xamarin\Xamarin_Project\BuldOry\dev\app_buldstory\app_buldstory\app_buldstory\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\environnement_travail\env_cours\LP_CDTL_DAM\Xamarin\Xamarin_Project\BuldOry\dev\app_buldstory\app_buldstory\app_buldstory\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
+C:\environnement_travail\env_cours\LP_CDTL_DAM\Xamarin\Xamarin_Project\BuldOry\dev\app_buldstory\app_buldstory\app_buldstory\obj\Debug\netstandard2.0\Views\RegistrationPage.xaml.g.cs
