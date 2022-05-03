@@ -8,17 +8,17 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("app_buldstory.Views.MonumentHistoryDetailPage.xaml", "Views/MonumentHistoryDetailPage.xaml", typeof(global::app_buldstory.Views.MonumentHistoryDetailPage))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("app_buldstory.Views.Inside.Map.xaml", "Views/Inside/Map.xaml", typeof(global::app_buldstory.Views.Map))]
 
 namespace app_buldstory.Views {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views\\MonumentHistoryDetailPage.xaml")]
-    public partial class MonumentHistoryDetailPage : global::Xamarin.Forms.ContentPage {
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views\\Inside\\Map.xaml")]
+    public partial class Map : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
-            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(MonumentHistoryDetailPage));
+            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(Map));
         }
     }
 }

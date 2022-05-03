@@ -4,10 +4,6 @@ C:\environnement_travail\env_cours\LP_CDTL_DAM\Xamarin\Xamarin_Project\BuldOry\d
 C:\environnement_travail\env_cours\LP_CDTL_DAM\Xamarin\Xamarin_Project\BuldOry\dev\app_buldstory\app_buldstory\app_buldstory\bin\Debug\netstandard2.0\app_buldstory.pdb
 C:\environnement_travail\env_cours\LP_CDTL_DAM\Xamarin\Xamarin_Project\BuldOry\dev\app_buldstory\app_buldstory\app_buldstory\obj\Debug\netstandard2.0\App.xaml.g.cs
 C:\environnement_travail\env_cours\LP_CDTL_DAM\Xamarin\Xamarin_Project\BuldOry\dev\app_buldstory\app_buldstory\app_buldstory\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
-C:\environnement_travail\env_cours\LP_CDTL_DAM\Xamarin\Xamarin_Project\BuldOry\dev\app_buldstory\app_buldstory\app_buldstory\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
-C:\environnement_travail\env_cours\LP_CDTL_DAM\Xamarin\Xamarin_Project\BuldOry\dev\app_buldstory\app_buldstory\app_buldstory\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
-C:\environnement_travail\env_cours\LP_CDTL_DAM\Xamarin\Xamarin_Project\BuldOry\dev\app_buldstory\app_buldstory\app_buldstory\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
-C:\environnement_travail\env_cours\LP_CDTL_DAM\Xamarin\Xamarin_Project\BuldOry\dev\app_buldstory\app_buldstory\app_buldstory\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
 C:\environnement_travail\env_cours\LP_CDTL_DAM\Xamarin\Xamarin_Project\BuldOry\dev\app_buldstory\app_buldstory\app_buldstory\obj\Debug\netstandard2.0\app_buldstory.AssemblyInfoInputs.cache
 C:\environnement_travail\env_cours\LP_CDTL_DAM\Xamarin\Xamarin_Project\BuldOry\dev\app_buldstory\app_buldstory\app_buldstory\obj\Debug\netstandard2.0\app_buldstory.AssemblyInfo.cs
 C:\environnement_travail\env_cours\LP_CDTL_DAM\Xamarin\Xamarin_Project\BuldOry\dev\app_buldstory\app_buldstory\app_buldstory\obj\Debug\netstandard2.0\app_buldstory.csproj.CoreCompileInputs.cache
@@ -20,7 +16,8 @@ C:\environnement_travail\env_cours\LP_CDTL_DAM\Xamarin\Xamarin_Project\BuldOry\d
 C:\environnement_travail\env_cours\LP_CDTL_DAM\Xamarin\Xamarin_Project\BuldOry\dev\app_buldstory\app_buldstory\app_buldstory\obj\Debug\netstandard2.0\Views\Outside\RegistrationPage.xaml.g.cs
 C:\environnement_travail\env_cours\LP_CDTL_DAM\Xamarin\Xamarin_Project\BuldOry\dev\app_buldstory\app_buldstory\app_buldstory\obj\Debug\netstandard2.0\app_buldstory.csproj.AssemblyReference.cache
 C:\environnement_travail\env_cours\LP_CDTL_DAM\Xamarin\Xamarin_Project\BuldOry\dev\app_buldstory\app_buldstory\app_buldstory\obj\Debug\netstandard2.0\app_buldstory.GeneratedMSBuildEditorConfig.editorconfig
-C:\environnement_travail\env_cours\LP_CDTL_DAM\Xamarin\Xamarin_Project\BuldOry\dev\app_buldstory\app_buldstory\app_buldstory\obj\Debug\netstandard2.0\Views\MonumentHistoryDetailPage.xaml.g.cs
-C:\environnement_travail\env_cours\LP_CDTL_DAM\Xamarin\Xamarin_Project\BuldOry\dev\app_buldstory\app_buldstory\app_buldstory\obj\Debug\netstandard2.0\Views\MonumentHistoryListPage.xaml.g.cs
-C:\environnement_travail\env_cours\LP_CDTL_DAM\Xamarin\Xamarin_Project\BuldOry\dev\app_buldstory\app_buldstory\app_buldstory\obj\Debug\netstandard2.0\Views\FavorisPage.xaml.g.cs
 C:\environnement_travail\env_cours\LP_CDTL_DAM\Xamarin\Xamarin_Project\BuldOry\dev\app_buldstory\app_buldstory\app_buldstory\obj\Debug\netstandard2.0\Views\Inside\HomePage.xaml.g.cs
+C:\environnement_travail\env_cours\LP_CDTL_DAM\Xamarin\Xamarin_Project\BuldOry\dev\app_buldstory\app_buldstory\app_buldstory\obj\Debug\netstandard2.0\Views\Inside\FavorisPage.xaml.g.cs
+C:\environnement_travail\env_cours\LP_CDTL_DAM\Xamarin\Xamarin_Project\BuldOry\dev\app_buldstory\app_buldstory\app_buldstory\obj\Debug\netstandard2.0\Views\Inside\MonumentHistoryDetailPage.xaml.g.cs
+C:\environnement_travail\env_cours\LP_CDTL_DAM\Xamarin\Xamarin_Project\BuldOry\dev\app_buldstory\app_buldstory\app_buldstory\obj\Debug\netstandard2.0\Views\Inside\MonumentHistoryListPage.xaml.g.cs
+C:\environnement_travail\env_cours\LP_CDTL_DAM\Xamarin\Xamarin_Project\BuldOry\dev\app_buldstory\app_buldstory\app_buldstory\obj\Debug\netstandard2.0\Views\Inside\MapPage.xaml.g.cs

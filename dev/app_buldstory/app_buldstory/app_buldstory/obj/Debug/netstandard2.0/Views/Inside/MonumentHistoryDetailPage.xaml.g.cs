@@ -8,21 +8,21 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("app_buldstory.Views.MonumentHistoryListPage.xaml", "Views/MonumentHistoryListPage.xaml", typeof(global::app_buldstory.Views.MonumentHistoryListPage))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("app_buldstory.Views.Inside.MonumentHistoryDetailPage.xaml", "Views/Inside/MonumentHistoryDetailPage.xaml", typeof(global::app_buldstory.Views.MonumentHistoryDetailPage))]
 
 namespace app_buldstory.Views {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views\\MonumentHistoryListPage.xaml")]
-    public partial class MonumentHistoryListPage : global::Xamarin.Forms.ContentPage {
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views\\Inside\\MonumentHistoryDetailPage.xaml")]
+    public partial class MonumentHistoryDetailPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
-        private global::Xamarin.Forms.CollectionView ItemsListView;
+        private global::Xamarin.Forms.Label LabelNVue;
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
-            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(MonumentHistoryListPage));
-            ItemsListView = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.CollectionView>(this, "ItemsListView");
+            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(MonumentHistoryDetailPage));
+            LabelNVue = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Label>(this, "LabelNVue");
         }
     }
 }

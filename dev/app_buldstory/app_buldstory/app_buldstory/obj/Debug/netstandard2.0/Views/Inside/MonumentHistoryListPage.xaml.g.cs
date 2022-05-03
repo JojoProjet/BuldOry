@@ -8,20 +8,20 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("app_buldstory.Views.FavorisPage.xaml", "Views/FavorisPage.xaml", typeof(global::app_buldstory.Views.FavorisPage))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("app_buldstory.Views.Inside.MonumentHistoryListPage.xaml", "Views/Inside/MonumentHistoryListPage.xaml", typeof(global::app_buldstory.Views.MonumentHistoryListPage))]
 
 namespace app_buldstory.Views {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views\\FavorisPage.xaml")]
-    public partial class FavorisPage : global::Xamarin.Forms.ContentPage {
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views\\Inside\\MonumentHistoryListPage.xaml")]
+    public partial class MonumentHistoryListPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private global::Xamarin.Forms.CollectionView ItemsListView;
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
-            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(FavorisPage));
+            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(MonumentHistoryListPage));
             ItemsListView = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.CollectionView>(this, "ItemsListView");
         }
     }

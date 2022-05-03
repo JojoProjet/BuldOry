@@ -2,7 +2,7 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:model="clr-namespace:app_buldstory.Models" xmlns:local="clr-namespace:app_buldstory.ViewModels"
              x:Class="app_buldstory.Views.HomePage"
-             BackgroundColor="#7a9e9f"
+             BackgroundColor="#EEF5DB"
              Title="Buldory">
     <ContentPage.ToolbarItems>
         <ToolbarItem Clicked="ClickLogout" Text="Logout"  Priority="1"/>

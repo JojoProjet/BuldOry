@@ -1,5 +1,4 @@
-﻿using app_buldstory.ViewModels;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -11,18 +10,11 @@ using Xamarin.Forms.Xaml;
 namespace app_buldstory.Views
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
-    public partial class HomePage : ContentPage
+    public partial class MapPage : ContentPage
     {
-
-        public HomePage()
+        public MapPage()
         {
             InitializeComponent();
         }
-
-        public void ClickLogout(object sender, EventArgs e)
-        {
-            Shell.Current.GoToAsync("//MainPage");
-        }
-
     }
 }

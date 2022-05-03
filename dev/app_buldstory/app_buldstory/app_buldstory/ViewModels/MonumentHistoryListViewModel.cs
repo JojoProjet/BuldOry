@@ -25,6 +25,8 @@ namespace app_buldstory.ViewModels
         public Command<Fields> ItemTapped { get; }
         public Command<Fields> ButtonClicked { get; }
 
+        public Command SearchQuery { get; }
+
 
         string alert;
         public string Alert
@@ -52,11 +54,19 @@ namespace app_buldstory.ViewModels
         public MonumentHistoryListViewModel()
         {
             Fields = new ObservableCollection<Fields>();
+            Querry = "";
             Alert = "";
+            
             LoadItemsCommand = new Command(async () => await ExecuteLoadItemsCommand());
+            SearchQuery = new Command(async () => await ExecuteSearchQuery());
 
             ItemTapped = new Command<Fields>(OnItemSelected);
             ButtonClicked = new Command<Fields>(OnCommandFavoris);
+        }
+
+        public async Task ExecuteSearchQuery()
+        {
+            await ExecuteLoadItemsCommand();
         }
 
         public async Task ExecuteLoadItemsCommand()
@@ -67,7 +77,7 @@ namespace app_buldstory.ViewModels
             {
                 Fields.Clear();
                 var client = HttpService.GetInstance();
-                var result = await client.GetAsync($"https://data.culture.gouv.fr/api/records/1.0/search/?dataset=liste-des-immeubles-proteges-au-titre-des-monuments-historiques&q=&rows=20&facet=region&facet=departement");
+                var result = await client.GetAsync($"https://data.culture.gouv.fr/api/records/1.0/search/?dataset=liste-des-immeubles-proteges-au-titre-des-monuments-historiques&q={Querry}&rows=20&facet=region&facet=departement");
                 var serializedResponse = await result.Content.ReadAsStringAsync();
                 var monumentHistorys = JsonConvert.DeserializeObject<MonumentHistory>(serializedResponse);
                 foreach (var a in monumentHistorys.Records)
