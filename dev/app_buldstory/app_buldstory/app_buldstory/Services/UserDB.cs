@@ -67,10 +67,7 @@ namespace app_buldstory.Services
                 _SQLiteConnection.Update(d1);
                 return true;
             }
-            else
-            {
-                return false;
-            }
+            return false;
         }
         public bool LoginValidate(string userName1, string pwd1)
         {

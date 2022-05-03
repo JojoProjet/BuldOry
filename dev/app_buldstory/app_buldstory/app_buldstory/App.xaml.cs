@@ -19,6 +19,7 @@ namespace app_buldstory
 
         protected override void OnStart()
         {
+            Shell.Current.GoToAsync("//MainPage");
         }
 
         protected override void OnSleep()

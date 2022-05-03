@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:model="clr-namespace:app_buldstory.Models" xmlns:local="clr-namespace:app_buldstory.ViewModels"
+             x:Class="app_buldstory.Views.HomePage"
+             BackgroundColor="#7a9e9f"
+             Title="Buldory">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Clicked="ClickLogout" Text="Logout"  Priority="1"/>
+    </ContentPage.ToolbarItems>
+
+    <ScrollView>
+        <StackLayout>
+            <Image Source="i1.png" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand"/>
+            
+            <Label Text="Bonjour à tous" Style="{DynamicResource TitleStyle}" HorizontalOptions="Center"/>
+            
+            <Label Text="Créateur de ce Buldory" Style="{DynamicResource TitleStyle}" HorizontalOptions="Center"/>
+            <Label Text="Mylan / Jonathan" Style="{DynamicResource TitleStyle}" HorizontalOptions="Center"/>
+
+            <FlexLayout IsVisible="True" JustifyContent="SpaceEvenly" Direction="Column" AlignItems="Center" Margin="10,0,10,0" >
+                <Image Source="phare.png" VerticalOptions="Center" HorizontalOptions="Center" Margin="150, 0, 0, 20"/>
+                <Image Source="chateau.jpg" VerticalOptions="Center" HorizontalOptions="Center" Margin="0, 0, 150, 20"/>
+                <Image Source="fot.jpg" VerticalOptions="Center" HorizontalOptions="Center" Margin="150, 0, 0, 20"/>
+            </FlexLayout>
+            <StackLayout HorizontalOptions="Center" VerticalOptions="Center" BackgroundColor="Black" HeightRequest="100">
+                <Label Text="©2022 Copyright Buldory. All right reserved" TextColor="White" Style="{DynamicResource TitleStyle}" HorizontalOptions="Center" VerticalOptions="Center" HorizontalTextAlignment="Center"/>
+            </StackLayout>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

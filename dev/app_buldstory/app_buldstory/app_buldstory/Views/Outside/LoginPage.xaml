@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="app_buldstory.Views.LoginPage" x:Name="loginPage" 
+             Title="BuldOry Login" 
+             NavigationPage.HasBackButton="True" 
+             NavigationPage.HasNavigationBar="True" BackgroundColor="#EEF5DB">
+    <ContentPage.Content>
+        <ScrollView>
+            <AbsoluteLayout x:Name="absLayout" Margin="5,0" IsVisible="True">
+                <FlexLayout IsVisible="True" JustifyContent="SpaceEvenly" Direction="Column" AlignItems="Center" Margin="30,0,30,0" >
+                    <Image Source="m1.png" HeightRequest="140" WidthRequest="140" FlexLayout.AlignSelf="Center" BackgroundColor="Transparent" />
+                    
+                    <Label TextColor="#4F6367" FontAttributes="Bold" Text="LOGIN" FlexLayout.AlignSelf="Center" FontSize="35"/>
+
+                    <Entry x:Name="userNameEntry" ReturnType="Next" Placeholder="Name" FontSize="Medium" FlexLayout.AlignSelf="Stretch"  HorizontalOptions="CenterAndExpand"  TextColor="Black" />
+                    
+                    <Entry x:Name="passwordEntry" ReturnType="Done" IsPassword="True" Placeholder="Password" FontSize="Medium" FlexLayout.AlignSelf="Stretch"  HorizontalOptions="CenterAndExpand"  TextColor="Black" />
+                    
+                    <Label x:Name="warningLabel" Text="" IsVisible="False" TextColor="Blue" FontSize="15" BackgroundColor="Transparent" />
+
+                    <Button x:Name="signUp" Clicked="LoginValidation_ButtonClicked" FontSize="Medium" TextColor="White" BorderColor="Black" BackgroundColor="#FE5F55"  CornerRadius="5" FlexLayout.AlignSelf="Stretch"  HorizontalOptions="CenterAndExpand" Text="LOg in"/>
+                    
+                </FlexLayout>
+            </AbsoluteLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

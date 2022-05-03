@@ -41,4 +41,5 @@
             </CollectionView.ItemTemplate>
         </CollectionView>
     </RefreshView>
+    
 </ContentPage>
